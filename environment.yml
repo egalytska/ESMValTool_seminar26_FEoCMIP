@@ -1,0 +1,13 @@
+name: esmvaltool_seminar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - esmvaltool
+  - cartopy
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - scitools-iris
