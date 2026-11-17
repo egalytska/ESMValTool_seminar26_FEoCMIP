@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.13
-  - esmvaltool
+  - esmvalcore
   - cartopy
   - jupyterlab
   - ipykernel
